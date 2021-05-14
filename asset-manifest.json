@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bit-chart-public/static/css/main.811b820e.chunk.css",
+    "main.js": "/bit-chart-public/static/js/main.a2ec2181.chunk.js",
+    "main.js.map": "/bit-chart-public/static/js/main.a2ec2181.chunk.js.map",
+    "runtime-main.js": "/bit-chart-public/static/js/runtime-main.a405a67d.js",
+    "runtime-main.js.map": "/bit-chart-public/static/js/runtime-main.a405a67d.js.map",
+    "static/js/2.da740767.chunk.js": "/bit-chart-public/static/js/2.da740767.chunk.js",
+    "static/js/2.da740767.chunk.js.map": "/bit-chart-public/static/js/2.da740767.chunk.js.map",
+    "static/js/3.0d946ccc.chunk.js": "/bit-chart-public/static/js/3.0d946ccc.chunk.js",
+    "static/js/3.0d946ccc.chunk.js.map": "/bit-chart-public/static/js/3.0d946ccc.chunk.js.map",
+    "index.html": "/bit-chart-public/index.html",
+    "static/css/main.811b820e.chunk.css.map": "/bit-chart-public/static/css/main.811b820e.chunk.css.map",
+    "static/js/2.da740767.chunk.js.LICENSE.txt": "/bit-chart-public/static/js/2.da740767.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a405a67d.js",
+    "static/js/2.da740767.chunk.js",
+    "static/css/main.811b820e.chunk.css",
+    "static/js/main.a2ec2181.chunk.js"
+  ]
+}
